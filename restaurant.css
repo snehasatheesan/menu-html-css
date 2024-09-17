@@ -1,0 +1,144 @@
+
+body{
+   background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+nav{
+    color: yellow;
+    margin-left: 60px;
+    
+}
+a{
+    color: yellow;
+}
+
+li,h1,ul{
+    display:inline-block
+}
+ul{
+margin-left: 60%;
+font-size: 20px;
+
+}
+.one{
+    font-size: 50px;
+    color: orange;
+    margin-bottom: 20px;
+}
+.two{
+    font-size: 25px;
+    color:green;
+    margin-bottom: 10px;
+}
+.three{
+    font-size: medium;
+    color:white;
+}
+
+.four{
+    background-color: red;
+    height: 45px;
+width: 250px;
+color: white;
+
+text-align: center;
+padding-top: 10px;
+border-style: solid;
+border-color: green;
+border-radius: 20px;
+}
+img{
+   width: 1500px; 
+   height: 700px;
+
+}
+.five{
+color: orange;
+margin-left: 45%;
+font-size: 37px;
+margin-top: 5px;
+
+}
+#starter{
+    color:green;
+    padding-left:100px;
+}
+#maindish{
+    color:green;
+    padding-left:100px;
+}
+#chat{
+    color:green;
+    padding-left:100px;
+}
+.six{
+    color: white;
+    font-size: 17px;
+    display: inline-block;
+    margin-right:120px;
+}
+.seven{
+    color:white;
+    font-size: 17px;
+    display: inline-block;
+    margin-right: 100px;
+    
+    
+}
+
+.eight{
+    color:white;
+    font-size: 17px; 
+    display: inline-block;
+}
+.location{
+    color: orange;
+    font-size: 37px;
+    margin-top: 5px;
+    margin-left: 45%;
+}
+
+.area {
+    display: flex;
+    justify-content: space-between; 
+    gap: 20px; 
+    padding: 20px;
+    border-radius: 8px;
+}
+
+
+.area > div {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    text-align: center; 
+    min-width: 200px; 
+}
+
+
+.area h2 {
+    font-size: 20px;
+    color: #0ffa6d; 
+    margin: 0; 
+}
+
+
+.area p {
+    font-size: 16px;
+    color: #fcf8f8; 
+    margin: 5px 0 0 0; 
+    line-height: 1.5;
+}
+
+li.hover{
+    color: antiquewhite;
+    cursor: pointer;
+}
+.nine{
+    color: green;
+}
+.ten{
+    color: white;
+}
